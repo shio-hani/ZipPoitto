@@ -1,4 +1,4 @@
-# ZIP Guard
+# ZIP Poitto
 
 ZipPoitto は、ZIPファイルの解凍だけに特化したシンプルなWindowsアプリです。
 
